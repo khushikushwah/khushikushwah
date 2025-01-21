@@ -1,7 +1,7 @@
 - 👋 I'm Khushi Kushwah
 - 👀I'm currently working on the apache/gravitino(good first issue).
 - 👀 I’m interested in learning new technologies that makes my skills better.
-- 🌱 I’m currently learning JAVA, DOCKER, GITHUB and other new technologies. 
+- 🌱 I’m currently using JAVA, GIT, VScode, GITHUB and other new technologies. 
 - 📫 How to reach me [mauryakhushi059@gmail.com]
 - 😄 Pronouns: HER
 - ⚡ Fun fact: .....
