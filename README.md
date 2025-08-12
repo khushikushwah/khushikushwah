@@ -3,4 +3,4 @@
 - 🌱 I’m currently using JAVA, GIT, VScode, GITHUB, IntelliJ, HTML and CSS.
 - 📫 How to reach me [mauryakhushi059@gmail.com]
 - 😄 Pronouns: HER
-- 📄 certified in Responsive Web Design.
+- 📄 Certified in Responsive Web Design.
