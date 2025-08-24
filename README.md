@@ -4,3 +4,7 @@
 - 📫 How to reach me [mauryakhushi059@gmail.com]
 - 😄 Pronouns: HER
 - 📄 Certified in Responsive Web Design.
+<p align="center">
+  <em>“Arise, Awake and Stop not until the goal is reached.”</em><br>
+  — <b>Swami Vivekananda</b>
+</p>
