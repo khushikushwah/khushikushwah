@@ -18,9 +18,18 @@
 - 📜 Certified in Responsive Web Design.
 
 
+---
 
+<p align="center">
+  <img src="https://img.icons8.com/fluency/48/000000/quote-left.png"/>
+</p>
 
-> *“Tough times never last, but tough people do.”*  
-> **— Dr. Robert Schuller**
+<p align="center">
+  <b><i>“Tough times never last, but tough people do.”</i></b>  
+</p>
+<p align="center">
+  <b>— Dr. Robert Schuller</b>
+</p>
 
 ---
+
