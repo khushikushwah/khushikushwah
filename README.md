@@ -17,14 +17,8 @@
 - 😄 Pronouns: **Her**
 - 📜 Certified in Responsive Web Design.
 
----
 
-## 📊 GitHub Stats
 
-![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushikushwah&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushikushwah&layout=compact&theme=radical)
-
----
 
 > *“Tough times never last, but tough people do.”*  
 > **— Dr. Robert Schuller**
