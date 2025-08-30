@@ -25,10 +25,10 @@
 </p>
 
 <p align="center">
-  <b><i>“Tough times never last, but tough people do.”</i></b>  
+  <b><i>“Once we accept our limits, we go beyond them.”</i></b>  
 </p>
 <p align="center">
-  <b>— Dr. Robert Schuller</b>
+  <b>— Albert Einstein</b>
 </p>
 
 ---
