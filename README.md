@@ -25,10 +25,10 @@
 </p>
 
 <p align="center">
-  <b><i>“Once we accept our limits, we go beyond them.”</i></b>  
+  <b><i>“Believe you can and you're halfway there.”</i></b>  
 </p>
 <p align="center">
-  <b>— Albert Einstein</b>
+  <b>—Theodore Roosevelt</b>
 </p>
 
 ---
