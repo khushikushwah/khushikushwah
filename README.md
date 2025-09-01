@@ -25,10 +25,10 @@
 </p>
 
 <p align="center">
-  <b><i>“Believe you can and you're halfway there.”</i></b>  
+  <b><i>“I dream my painting and I paint my dream.”</i></b>  
 </p>
 <p align="center">
-  <b>—Theodore Roosevelt</b>
+  <b>—Vincent van Gogh</b>
 </p>
 
 ---
