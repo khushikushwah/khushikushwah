@@ -25,10 +25,11 @@
 </p>
 
 <p align="center">
-  <b><i>“I dream my painting and I paint my dream.”</i></b>  
+  <b><i>“Real knowledge is to know the extent of one's ignorance.”</i></b>  
+  
 </p>
 <p align="center">
-  <b>—Vincent van Gogh</b>
+  <b>—Confucius</b>
 </p>
 
 ---
