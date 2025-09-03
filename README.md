@@ -25,11 +25,11 @@
 </p>
 
 <p align="center">
-  <b><i>“Real knowledge is to know the extent of one's ignorance.”</i></b>  
+  <b><i>“Look at usual things with unusual eyes.”</i></b>  
   
 </p>
 <p align="center">
-  <b>—Confucius</b>
+  <b>—Vico Magistetti</b>
 </p>
 
 ---
