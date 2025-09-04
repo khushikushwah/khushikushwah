@@ -25,11 +25,11 @@
 </p>
 
 <p align="center">
-  <b><i>“Look at usual things with unusual eyes.”</i></b>  
+  <b><i>“The price of anything is the amount of life you exchange for it.”</i></b>  
   
 </p>
 <p align="center">
-  <b>—Vico Magistetti</b>
+  <b>Henry David Thoreau</b>
 </p>
 
 ---
