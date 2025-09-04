@@ -24,13 +24,9 @@
   <img src="https://img.icons8.com/fluency/48/000000/quote-left.png"/>
 </p>
 
-<p align="center">
-  <b><i>“The price of anything is the amount of life you exchange for it.”</i></b>  
-  
-</p>
-<p align="center">
-  <b> - Henry David Thoreau</b>
-</p>
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 
 ---
 
