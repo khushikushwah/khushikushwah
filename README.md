@@ -29,7 +29,7 @@
   
 </p>
 <p align="center">
-  <b>Henry David Thoreau</b>
+  <b> - Henry David Thoreau</b>
 </p>
 
 ---
