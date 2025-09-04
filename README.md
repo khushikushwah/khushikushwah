@@ -29,4 +29,20 @@
 
 
 ---
+## 🎲 Play Tic Tac Toe (Manual Version)
+
+Copy this board, edit it in a comment or your own file, and play with a friend!
+
+|   |   |   |
+|---|---|---|
+|   |   |   |
+|---|---|---|
+|   |   |   |
+
+- Player 1: X
+- Player 2: O
+
+Take turns editing the board!
+
+---
 
