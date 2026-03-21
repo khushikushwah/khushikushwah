@@ -1,5 +1,5 @@
 # Khushi Kushwah
-**Email:** mauryakhushi059@gmail.com  
+**Email:** khushikushwah9024@gmail.com  
 **GitHub:** [github.com/khushikushwah](https://github.com/khushikushwah)
 
 ---
