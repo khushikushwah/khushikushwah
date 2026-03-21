@@ -49,7 +49,7 @@ Motivated and passionate developer seeking to leverage technical skills in Java,
 
 ## 📫 CONTACT INFORMATION
 
-- **Email:** [mauryakhushi059@gmail.com](mailto:khushikushwah9024@gmail.com)
+- **Email:** [khushikushwah9024@gmail.com](mailto:khushikushwah9024@gmail.com)
 - **GitHub:** [github.com/khushikushwah](https://github.com/khushikushwah)
 - **Pronouns:** Her
 
