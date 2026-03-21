@@ -1,4 +1,4 @@
-# Khushi Maurya
+# Khushi Kushwah
 **Email:** mauryakhushi059@gmail.com  
 **GitHub:** [github.com/khushikushwah](https://github.com/khushikushwah)
 
