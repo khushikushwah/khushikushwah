@@ -12,21 +12,21 @@ Motivated and passionate developer seeking to leverage technical skills in Java,
 ## 💼 TECHNICAL SKILLS
 
 **Programming Languages:**
-- Java
-- Python
-- JavaScript
-- C++
+- ☕ Java
+- 🐍 Python
+- 🟨 JavaScript
+- 💻 C++
 
 **Web Technologies:**
-- HTML5
-- CSS3
-- JavaScript
+- 🌐 HTML5
+- 🎨 CSS3
+- 🟨 JavaScript
 
 **Tools & Platforms:**
-- Git & GitHub
-- Bitbucket
-- Visual Studio Code
-- IntelliJ IDEA
+- 🧩 Git & GitHub
+- 🧱 Bitbucket
+- 🖥️ Visual Studio Code
+- 🧠 IntelliJ IDEA
 
 ---
 
