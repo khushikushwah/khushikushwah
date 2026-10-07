@@ -24,6 +24,7 @@ Motivated and passionate developer seeking to leverage technical skills in Java,
 
 **Tools & Platforms:**
 - Git & GitHub
+- Bitbucket
 - Visual Studio Code
 - IntelliJ IDEA
 
